@@ -1,0 +1,24 @@
+{
+    "ali@gmail.com": [
+        {
+            "name": "ali",
+            "birthday": "12-07-1992"
+        }
+    ],
+    "asim@gmail.com": [
+        {
+            "name": "ali",
+            "birthday": "11-09-1998"
+        },
+        {
+            "name": "asim",
+            "birthday": "27-01-2000"
+        }
+    ],
+    "ahmed@gmail.com": [
+        {
+            "name": "Shah",
+            "birthday": "12-11-1992"
+        }
+    ]
+}
